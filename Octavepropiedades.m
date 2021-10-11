@@ -16,11 +16,13 @@ C_numeros_Reales="? =(I,Q,Z,N)";
 a=3;
 b=7;
 c=5;
+'propiedad de cerradura'
 %Cerradura
 a=3;
 b=7;
 a+b
 a*b
+'propiedad asociativa'
 %Propiedad asociativa 
 a=5;
 b=7;
@@ -29,6 +31,7 @@ a+(b+c)
 (a+b)+c
 (a*b)+c
 a*(b+c)
+'propiedad conmutativa'
 %propiedad conmutativa
 a+b
 b+a
@@ -37,15 +40,18 @@ b*a
 a=3;
 b=7;
 c=5;
+'propiedad de elemento neutro'
 %Propiedad de elemento neutro
 a=3;
 b=7;
 a+0
 a*1
+'propiedad inversa'
 %Propiedad  inversa
 a=3;
 a-(-a)
 a*1/a
+'propiedad distributiva'
 %propiedad distributiba
 a=3;
 b=7;
